@@ -3,3 +3,9 @@ node_modules
 .d2
 src/locales
 build
+.pnpm-store
+.d2
+.idea
+*.log
+i18n
+

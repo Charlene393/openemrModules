@@ -5,8 +5,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1)\n"
-"POT-Creation-Date: 2026-06-12T08:28:05.390Z\n"
-"PO-Revision-Date: 2026-06-12T08:28:05.391Z\n"
+"POT-Creation-Date: 2026-06-30T07:54:19.102Z\n"
+"PO-Revision-Date: 2026-06-30T07:54:19.103Z\n"
 
 msgid "Error"
 msgstr "Error"
@@ -28,11 +28,3 @@ msgstr "Value Type"
 
 msgid "Created by"
 msgstr "Created by"
-
-msgctxt "Application title"
-msgid "__MANIFEST_APP_TITLE"
-msgstr "TAFSIRI"
-
-msgctxt "Application description"
-msgid "__MANIFEST_APP_DESCRIPTION"
-msgstr "Transformational AI For SQL Inferences and Reporting Integration"
